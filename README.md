@@ -1,9 +1,1 @@
-### Field design
-
-```txt
-┌---------┐
-│ 2 4 8 A │ A - 16, B - 32, C - 64
-│ B C D E │ D - 128, E - 256, F - 512
-│ F G * # │ G - 1024, * - 2048
-└---------┘
-```
+### Simple 2048 game implemented in rust
